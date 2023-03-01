@@ -8,6 +8,3 @@ Este repositório tem como objetivo servir de biblioteca para as aulas de Progra
 Na aula de hoje recebemos um código html e um css do professor, fizemos mudanças para adaptar o trabalho com o tema Lixo Zero nas páginas criadas do professor. Foi enviado o repositório pelo Classroom.
 
 # Programação Servidor em Sistemas Internet
-
-
-https://github.com/Thuany-Menezes/lixozero#prop%C3%B3sito
